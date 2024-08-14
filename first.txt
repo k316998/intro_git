@@ -3,3 +3,6 @@ gitの練習
 
 追加の記載
 追記
+
+/git add
+/git commit
